@@ -9,7 +9,7 @@
 - 📫 How to reach me ...
 			<a href=https://www.linkedin.com/in/phylyp-cavalcante-091637178/>LinkedIn</a>
 			
-			<a href=https://www.instagram.com/kh4r00n/>Instagram</a>
+	<a href=https://www.instagram.com/kh4r00n/>Instagram</a>
 
 <!---
 kh4r00n/kh4r00n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
