@@ -1,10 +1,8 @@
 👋 Hi, I’m Phylyp
 
-👀 I’m interested in...
-			Python and Data Science
+👀 I’m interested in Python and Data Science
 
-🌱 I’m currently learning...
-			Python
+🌱 I’m currently learning Python
 
 📫 How to reach me ...
 			
