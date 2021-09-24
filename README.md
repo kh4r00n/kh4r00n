@@ -2,7 +2,7 @@
 
 👀 I’m interested in Python, Data Engineering, Data Science and AI.
 
-🌱 I’m currently learning Python and studying Data Engineering at SoulCode academy.
+🌱 I’m currently studying Data Engineering at SoulCode academy.
 
  <div>
   <a href="https://github.com/kh4r00n">
