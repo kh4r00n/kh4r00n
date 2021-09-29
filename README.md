@@ -17,7 +17,10 @@
   <!--<img align="center" alt="phy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
   <!--<img align="center" alt="phy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">-->
   <!--<img align="center" alt="phy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-->
-  <img align="center" alt="phy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="phy-Python" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="phy-Python" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/>
+  <img align="center" alt="phy-Python" height="60" width="100" src="https://bitaacademy.com/wp-content/uploads/2020/01/PySpark-1.png" />
+
   <!--<img align="right" alt="gengar" src="https://64.media.tumblr.com/89576c369a0bc6e49d686a27b997c70f/tumblr_nthyd5K1DW1scncwdo1_540.gifv">-->
 </div>
 
