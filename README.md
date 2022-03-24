@@ -9,7 +9,7 @@ I enjoy reading and studying Japanese in my spare time. My biggest interests in 
 
 I'm currently studying data structure, C and shell scripting. In April/2022 I start the Basecamp of 42 São Paulo (also known as The Piscine of 42). 42 is a global education initiative that proposes a new way of learning technology: no teachers, no classrooms, students learning from their fellow students (peer to peer learning), with a methodology that develops both computing and life skills. The Basecamp(C Piscine) is a 26 days C programming bootcamp, is the last stage in the selection process for becoming a "cadet" (42's student).
 
-<img align="right" alt="gengar" src="https://64.media.tumblr.com/89576c369a0bc6e49d686a27b997c70f/tumblr_nthyd5K1DW1scncwdo1_540.gifv"/>
+<img  height="180em" align="right" alt="gengar" src="https://64.media.tumblr.com/89576c369a0bc6e49d686a27b997c70f/tumblr_nthyd5K1DW1scncwdo1_540.gifv"/>
 
 
 
