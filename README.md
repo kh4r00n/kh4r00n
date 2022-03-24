@@ -4,7 +4,7 @@
 
 Technology enthusiast. I started my journey learning to program in Python, soon after I became more interested in programming through Rhinoceros3D and Grasshopper software, where it was possible to create designs through visual programming and in QGIS Software where I performed spatial data analysis.
 
-I am currently a graduate student in Information Systems. I have experience with python, ETL, pandas, pyspark and sql.
+I am currently a graduate student in Information Systems. I have experience with Python, ETL, Pandas, PySpark and sql.
 
 I enjoy reading and studying Japanese in my spare time. My biggest interests in Technology are Data Science and Artificial Intelligence. I aim to learn more about Machine learning, Deep Learning, Big Data, Data Engineering. 
 
