@@ -25,9 +25,6 @@ I'm currently studying data structure, C and shell scripting. In April/2022 I st
   <img align="center" alt-"numpy-logo" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 
-	
-<br> </br>
-
 ## 📖 And some of the ones I'm studying or that I know a little less 📖
 
 <img align="center" alt="bash-logo" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
