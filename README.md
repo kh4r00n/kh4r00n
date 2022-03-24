@@ -28,6 +28,12 @@ I'm currently studying data structure, C and shell scripting. In April/2022 I st
 	
 <br> </br>
 
+## 📖 And some of the ones I'm studying or that I know a little less 📖
+
+<img align="center" alt="bash-logo" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
+<img align="center" alt="sklearn-logo" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img align="center" alt="gcp-logo" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+
 ## 👇🏻 You can find me here 👇🏻	
 <div> 
   <a href="https://instagram.com/kh4r00n" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
