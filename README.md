@@ -11,7 +11,7 @@ I'm currently studying data structure, C and shell scripting. In April/2022 I st
 
 <img  height="180em" align="right" alt="gengar" src="https://64.media.tumblr.com/89576c369a0bc6e49d686a27b997c70f/tumblr_nthyd5K1DW1scncwdo1_540.gifv"/>
 
-
+<br> </br>
 
 
 
@@ -31,6 +31,10 @@ I'm currently studying data structure, C and shell scripting. In April/2022 I st
   <img align="center" alt-"numpy-logo" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 
+	
+<br> </br>
+
+## 👇🏻 You can find me here 👇🏻	
 <div> 
   <a href="https://instagram.com/kh4r00n" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:phylyp.sc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
