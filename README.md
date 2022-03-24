@@ -9,16 +9,22 @@ I enjoy reading and studying Japanese in my spare time. My biggest interests in 
 
 I'm currently studying data structure, C and shell scripting. In April/2022 I start the Basecamp of 42 São Paulo (also known as The Piscine of 42). 42 is a global education initiative that proposes a new way of learning technology: no teachers, no classrooms, students learning from their fellow students (peer to peer learning), with a methodology that develops both computing and life skills. The Basecamp(C Piscine) is a 26 days C programming bootcamp, is the last stage in the selection process for becoming a "cadet" (42's student).
 
+<img align="right" alt="gengar" src="https://64.media.tumblr.com/89576c369a0bc6e49d686a27b997c70f/tumblr_nthyd5K1DW1scncwdo1_540.gifv">
+
+
+## Technologies I have most experience
 
 
 <div style="display: inline_block"><br>
   <img align="center" alt-"phtyon-logo" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img align="center" alt="phy-Python" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="phy-Python" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/>
-  <img align="center" alt="phy-Python" height="60" width="100" src="https://bitaacademy.com/wp-content/uploads/2020/01/PySpark-1.png" /> -->
+  <img align="center" alt-"pandas-logo" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img align="center" alt-"spark-logo" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16"/>
+  <img align="center" alt-"databricks-logo" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"/>
+  <img align="center" alt-"mysql-logo" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img align="center" alt-"mongodb-logo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img align="center" alt-"c-logo" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img align="center" alt-"numpy-logo" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-  <!--<img align="right" alt="gengar" src="https://64.media.tumblr.com/89576c369a0bc6e49d686a27b997c70f/tumblr_nthyd5K1DW1scncwdo1_540.gifv">-->
-</div>
 
 <div> 
   <a href="https://instagram.com/kh4r00n" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
