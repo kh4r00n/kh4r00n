@@ -12,12 +12,6 @@ I'm currently studying data structure, C and shell scripting. In April/2022 I st
 
 <br> </br>
 
-<br> </br>
-
-
-
-
-
 ## Technologies I have most experience
 
 
