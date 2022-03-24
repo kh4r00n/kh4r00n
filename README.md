@@ -1,25 +1,21 @@
 # 👋 Hi, I’m Phylyp
 
-👀 I’m interested in Python, Data Engineering, Data Science and AI.
 
-🌱 I’m currently studying Data Engineering at SoulCode academy.
+Technology enthusiast. I started my journey learning to program in Python, soon after I became more interested in programming through Rhinoceros3D and Grasshopper software, where it was possible to create designs through visual programming and in QGIS Software where I performed spatial data analysis.
 
- <div>
-  <a href="https://github.com/kh4r00n">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kh4r00n&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kh4r00n&layout=compact&langs_count=7&theme=midnight-purple"/>-->
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kh4r00n&theme=cobalt"/>-->
-</div>
+I am currently a graduate student in Information Systems. I have experience with python, ETL, pandas, pyspark and sql.
+
+I enjoy reading and studying Japanese in my spare time. My biggest interests in Technology are Data Science and Artificial Intelligence. I aim to learn more about Machine learning, Deep Learning, Big Data, Data Engineering. 
+
+I'm currently studying data structure, C and shell scripting. In April/2022 I start the Basecamp of 42 São Paulo (also known as The Piscine of 42). 42 is a global education initiative that proposes a new way of learning technology: no teachers, no classrooms, students learning from their fellow students (peer to peer learning), with a methodology that develops both computing and life skills. The Basecamp(C Piscine) is a 26 days C programming bootcamp, is the last stage in the selection process for becoming a "cadet" (42's student).
+
+
 
 <div style="display: inline_block"><br>
-  <!--<img align="center" alt="phy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
-  <!--<img align="center" alt="phy-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
-  <!--<img align="center" alt="phy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
-  <!--<img align="center" alt="phy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">-->
-  <!--<img align="center" alt="phy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-->
+  <!--<img align="center" alt-"phtyon-logo" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img align="center" alt="phy-Python" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" alt="phy-Python" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/>
-  <img align="center" alt="phy-Python" height="60" width="100" src="https://bitaacademy.com/wp-content/uploads/2020/01/PySpark-1.png" />
+  <img align="center" alt="phy-Python" height="60" width="100" src="https://bitaacademy.com/wp-content/uploads/2020/01/PySpark-1.png" /> -->
 
   <!--<img align="right" alt="gengar" src="https://64.media.tumblr.com/89576c369a0bc6e49d686a27b997c70f/tumblr_nthyd5K1DW1scncwdo1_540.gifv">-->
 </div>
