@@ -8,8 +8,6 @@ I am currently a graduate student in Information Systems. I have experience with
 
 I enjoy reading and studying Japanese in my spare time. My biggest interests in Technology are Data Science and Artificial Intelligence. I aim to learn more about Machine learning, Deep Learning, Big Data, Data Engineering. 
 
-I'm currently studying data structure, C and shell scripting. In April/2022 I start the Basecamp of 42 São Paulo (also known as The Piscine of 42). 42 is a global education initiative that proposes a new way of learning technology: no teachers, no classrooms, students learning from their fellow students (peer to peer learning), with a methodology that develops both computing and life skills. The Basecamp(C Piscine) is a 26 days C programming bootcamp, is the last stage in the selection process for becoming a "cadet" (42's student).
-
 
 ## ⭐️ Technologies I have most experience ⭐️
 
