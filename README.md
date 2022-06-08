@@ -42,10 +42,7 @@ I enjoy reading and studying Japanese in my spare time. My biggest interests in 
   <img align="center" alt="git-logo" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   
 	
-  
-  <img align="center" alt="azure-logo" src=""/>
-  <img align="center" alt="azure-logo" src=""/>
-  <img align="center" alt="azure-logo" src=""/>
+ 
 
 
 
