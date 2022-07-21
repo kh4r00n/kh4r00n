@@ -2,11 +2,12 @@
 
 <img  height="180em" align="right" alt="gengar" src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s500x750/7f313f84e12b78873f113381238cda7745fa3ea0.gifv"/>
 
-Technology enthusiast. I started my journey learning to program in Python, soon after I became more interested in programming through Rhinoceros3D and Grasshopper software, where it was possible to create designs through visual programming and in QGIS Software where I performed spatial data analysis.
+Hi. My name is Phylyp. I am a Data Engineer with experience in Python, Scala, SQL and Cloud environments. Working mainly with data ingestion, transformation and loading. And also in the construction and orchestration of Data Pipeline using tools such as Azure Data Factory, Databricks, PySpark. Always looking to use the Data Driven culture to add value in order to innovate and get the most value possible from the data.
 
-I am currently a graduate student in Computer Science. I have experience with Python, ETL, Pandas, PySpark and sql.
+I also have experience with relational and non-relational databases like MySQL, PostgreSQL, Azurel SQL and MongoDB. Cloud knowledge with Microsoft Azure and Google Cloud Pataform(GCP). And with Big Data, Data Warehouse, Data Lake, Lake House, using BigQuery and Cloud Storage from GCP, Azure Data Lake Storage from Microsoft and Databricks.
 
-I enjoy reading and studying Japanese in my spare time. My biggest interests in Technology are Data Science and Artificial Intelligence. I aim to learn more about Machine learning, Deep Learning, Big Data, Data Engineering. 
+I enjoy reading and studying Japanese in my spare time. My main interests in Technology are in Data Engineering and Artificial Intelligence. I aim to learn and apply more and more on the topics of Machine learning, Deep Learning, DataOps, Big Data and Data Engineering.
+
 
 
 ## ⭐️ Technologies I have most experience ⭐️
