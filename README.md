@@ -4,13 +4,10 @@ Hi. My name is Phylyp. I am a Data Engineer with experience in Python, Scala, Sp
 I also have experience with relational and non-relational databases like MySQL, PostgreSQL, Azurel SQL and MongoDB. Cloud knowledge with Microsoft Azure (Blob Storage, Azure Data Lake, Azure SQL, Azure Data Factory, CosmosDB), Google Cloud Pataform - GCP (Cloud Storage, Cloud SQL, BigQuery, Dataflow) and Databricks.
 
 Certifications:
-Microsoft Certified: Azure Data Engineer Associate (DP-203)
-
-Microsoft Certified: Azure Cosmos DB Developer Specialty (DP-420)
-
-Microsoft Certified: Azure Data Fundamentals (DP-900)
-
-Microsoft Certified: Azure Fundamentals (AZ-900)
+Microsoft Certified: Azure Data Engineer Associate (DP-203)<br></br>
+Microsoft Certified: Azure Cosmos DB Developer Specialty (DP-420)<br></br>
+Microsoft Certified: Azure Data Fundamentals (DP-900)<br></br>
+Microsoft Certified: Azure Fundamentals (AZ-900)<br></br>
 
 
 I like to read and study Japanese in my spare time. My biggest interests in Technology are in Data Engineering, Big Data, DataOps, Machine Learning, I aim to learn and apply more and more on these topics.
