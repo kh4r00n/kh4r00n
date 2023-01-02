@@ -5,9 +5,13 @@ I also have experience with relational and non-relational databases like MySQL, 
 
 Certifications:
 Microsoft Certified: Azure Data Engineer Associate (DP-203)
+
 Microsoft Certified: Azure Cosmos DB Developer Specialty (DP-420)
+
 Microsoft Certified: Azure Data Fundamentals (DP-900)
+
 Microsoft Certified: Azure Fundamentals (AZ-900)
+
 
 I like to read and study Japanese in my spare time. My biggest interests in Technology are in Data Engineering, Big Data, DataOps, Machine Learning, I aim to learn and apply more and more on these topics.
 
