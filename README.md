@@ -12,6 +12,7 @@ Certifications:
 </ul>
 
 
+
 I like to read and study Japanese in my spare time. My biggest interests in Technology are in Data Engineering, Big Data, DataOps, Machine Learning, I aim to learn and apply more and more on these topics.
 
 
